@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="tagline_encrypted_vault">Zero-knowledge offline-first notes</string>
+    <string name="nav_notes">Notes</string>
+    <string name="nav_insights">Insights</string>
+    <string name="nav_vault">Vault</string>
+    <string name="action_new_note">New note</string>
+    <string name="action_voice_note">Voice note</string>
+    <string name="action_export">Export</string>
+    <string name="action_unlock_vault">Unlock Vault</string>
+    <string name="biometric_prompt_title">Unlock Notebook Vault</string>
+    <string name="biometric_prompt_subtitle">Authenticate to access your encrypted notes</string>
+    <string name="voice_permission_rationale">Microphone access enables hands-free voice-to-text dictation directly inside your notes.</string>
+</resources>
