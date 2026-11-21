@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-  namespace = "com.example"
+  namespace = "com.devekene.notebook"
   compileSdk { version = release(36) { minorApiLevel = 1 } }
 
   defaultConfig {
-    applicationId = "com.aistudio.notebook.qvkrtx"
+    applicationId = "com.devekene.notebook"
     minSdk = 24
     targetSdk = 36
     versionCode = 1
